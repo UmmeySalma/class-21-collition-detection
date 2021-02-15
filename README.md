@@ -1,2 +1,2 @@
-# class-21-collition-detection
-class 21 collition detection
+# collisionAlgorithm
+Algorithm to detect collision between two objects
